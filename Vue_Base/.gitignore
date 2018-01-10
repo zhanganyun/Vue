@@ -1,0 +1,10 @@
+/node_modules
+/.vscode
+*.js
+*.js.map
+package-lock.json
+*.rar
+*.zip
+/server/uploads
+/.idea
+/workspace.xml
